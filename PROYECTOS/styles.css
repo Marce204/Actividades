@@ -1,0 +1,25 @@
+body {
+    background-color: #b3d6f8;
+    font-family: 'Patrick Hand', cursive, sans-serif;
+     /* Cambiar a Comic Sans */
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.form-title {
+    background-color: #007bff; /* Color de fondo azul */
+    padding: 20px; /* Espaciado interno */
+    border-radius: 10px; /* Bordes redondeados */
+    color: white; /* Color del texto */
+}
+
+.btn-custom {
+    background-color: #007bff;
+    color: white;
+}
+
+.btn-custom:hover {
+    background-color: #0056b3;
+}
